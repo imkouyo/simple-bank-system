@@ -6,4 +6,3 @@ while True:
     else:
         print(sum(numbers) / len(numbers))
         break
-

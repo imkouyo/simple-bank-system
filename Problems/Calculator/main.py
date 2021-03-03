@@ -67,4 +67,3 @@ elif arithmetic == 'pow':
     Pow(one, two).calculate()
 elif arithmetic == 'div':
     Divide(one, two).calculate()
-
